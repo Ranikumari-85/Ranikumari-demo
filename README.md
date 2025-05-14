@@ -1,4 +1,4 @@
 # Ranikumari-demo
 This is my first Git Repository.
 <br>
-Author- Rani kumari
+Author- Rani Garg
